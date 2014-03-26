@@ -1,0 +1,41 @@
+/*Tipografía*/
+font-family: Trebuchet MS;
+
+/*Línea superior*/
+background-color: #f2f3f3;
+
+/*Logotipo*/
+tamaño 316px x 85px
+
+/*Menu*/
+color: #625f5f;
+underline: #cabb15;
+font-size: 16px;
+
+/*Imagen Central*/
+tamaño 662px x 402px
+/*Titulo en Imagen Central*/
+font-size: 21px;
+color: #cabb15;
+/*Texto en Imagen Central*/
+font-size: 18px
+
+/*Bloques Laterales*/
+background-color: #1f232e;
+/*Titulo Bloque Lateral*/
+font-size: 18px;
+/*Texto Bloque Lateral*/
+font-size: 14px;
+
+/*Imagenes*/
+tamaño 232px x 134px
+/*Bloque Texto*/
+background-color: #cabb15;
+/*Texto*/
+font-size: 14px;
+color: #ffffff;
+
+/*Pie de Página*/
+background-color: #eceded;
+color: #625f5f;
+font-size: 14px;
